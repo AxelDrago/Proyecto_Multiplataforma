@@ -21,8 +21,11 @@ CHAVEZ ESPINOZA, JONATHAN JORGE
 ==========================================
 
 INTEGRANTES:
+
 APARICIO SALCEDO, BRUNO SEBASTIAN	1710919
+
 ASO CAMPOS, NOBORU ANTHONY	1711489
+
 DRAGO ESPINOZA, AXEL JOEL	1710007
 
 ==========================================
@@ -48,14 +51,23 @@ ofrecer informacion actualizada sobre esterilizacion, campañas y eventos.
 ==========================================
 
 PRINCIPALES FUNCIONALIDADES:
+
 Mostrar listado de mascotas disponibles para adopcion
+
 Registrar usuario:
+
   -Nombre, telefono, email, usuario, contraseña
+  
 Registrar mascota
+
   -Tipo, edad, raza.
+  
 Mostrar informacion sobre esterilizacion, campañas de vacunas, eventos, etc
+
 Buscar mascotas por tipo, edad, raza, etc
+
 Mostrar informacion sobre voluntariado
+
 Inicio de sesion
 
 
