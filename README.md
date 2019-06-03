@@ -43,7 +43,7 @@ hogar adecaudo para estos.
 
 ==========================================
 
-PROPPUESTA DE VALOR:
+PROPUESTA DE VALOR:
 Registro de mascostas por cualquier usuario tanto callejeras, cachorros no deseados, etc. Ademas de 
 ofrecer informacion actualizada sobre esterilizacion, campañas y eventos.
 
