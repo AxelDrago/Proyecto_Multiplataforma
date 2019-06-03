@@ -60,7 +60,7 @@ Registrar usuario:
   
 Registrar mascota
 
-  -Tipo, edad, raza.
+  -Tipo, edad, nombre, raza, foto.
   
 Mostrar informacion sobre esterilizacion, campañas de vacunas, eventos, etc
 
