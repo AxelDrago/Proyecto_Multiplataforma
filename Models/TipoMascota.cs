@@ -1,3 +1,5 @@
+
+using System.Collections.Generic;
 namespace Proyecto_Multiplataforma.Models
 {
     public class TipoMascota
