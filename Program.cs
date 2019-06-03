@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace Proyecto_Multiplataforma_1
+namespace Proyecto_Multiplataforma
 {
     public class Program
     {

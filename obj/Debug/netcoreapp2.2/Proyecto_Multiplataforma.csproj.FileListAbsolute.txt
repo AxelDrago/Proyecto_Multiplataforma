@@ -4,3 +4,9 @@ C:\Users\alumno.CIIS\Documents\Proyecto_Multiplataforma-1\obj\Debug\netcoreapp2.
 C:\Users\alumno.CIIS\Documents\Proyecto_Multiplataforma-1\obj\Debug\netcoreapp2.2\Proyecto_Multiplataforma-1.RazorAssemblyInfo.cs
 C:\Users\alumno.CIIS\Documents\Proyecto_Multiplataforma-1\obj\Debug\netcoreapp2.2\Proyecto_Multiplataforma-1.AssemblyInfoInputs.cache
 C:\Users\alumno.CIIS\Documents\Proyecto_Multiplataforma-1\obj\Debug\netcoreapp2.2\Proyecto_Multiplataforma-1.AssemblyInfo.cs
+C:\Users\alumno.CIIS\Documents\Proyecto_Multiplataforma\obj\Debug\netcoreapp2.2\Proyecto_Multiplataforma.csprojAssemblyReference.cache
+C:\Users\alumno.CIIS\Documents\Proyecto_Multiplataforma\obj\Debug\netcoreapp2.2\Proyecto_Multiplataforma.csproj.CoreCompileInputs.cache
+C:\Users\alumno.CIIS\Documents\Proyecto_Multiplataforma\obj\Debug\netcoreapp2.2\Proyecto_Multiplataforma.RazorAssemblyInfo.cache
+C:\Users\alumno.CIIS\Documents\Proyecto_Multiplataforma\obj\Debug\netcoreapp2.2\Proyecto_Multiplataforma.RazorAssemblyInfo.cs
+C:\Users\alumno.CIIS\Documents\Proyecto_Multiplataforma\obj\Debug\netcoreapp2.2\Proyecto_Multiplataforma.AssemblyInfoInputs.cache
+C:\Users\alumno.CIIS\Documents\Proyecto_Multiplataforma\obj\Debug\netcoreapp2.2\Proyecto_Multiplataforma.AssemblyInfo.cs

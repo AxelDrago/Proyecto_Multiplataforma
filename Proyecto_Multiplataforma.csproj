@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
-    <RootNamespace>Proyecto_Multiplataforma_1</RootNamespace>
+    <RootNamespace>Proyecto_Multiplataforma</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

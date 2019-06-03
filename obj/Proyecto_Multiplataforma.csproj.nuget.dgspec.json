@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alumno.CIIS\\Documents\\Proyecto_Multiplataforma-1\\Proyecto_Multiplataforma-1.csproj": {}
+    "C:\\Users\\alumno.CIIS\\Documents\\Proyecto_Multiplataforma\\Proyecto_Multiplataforma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alumno.CIIS\\Documents\\Proyecto_Multiplataforma-1\\Proyecto_Multiplataforma-1.csproj": {
+    "C:\\Users\\alumno.CIIS\\Documents\\Proyecto_Multiplataforma\\Proyecto_Multiplataforma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alumno.CIIS\\Documents\\Proyecto_Multiplataforma-1\\Proyecto_Multiplataforma-1.csproj",
-        "projectName": "Proyecto_Multiplataforma-1",
-        "projectPath": "C:\\Users\\alumno.CIIS\\Documents\\Proyecto_Multiplataforma-1\\Proyecto_Multiplataforma-1.csproj",
+        "projectUniqueName": "C:\\Users\\alumno.CIIS\\Documents\\Proyecto_Multiplataforma\\Proyecto_Multiplataforma.csproj",
+        "projectName": "Proyecto_Multiplataforma",
+        "projectPath": "C:\\Users\\alumno.CIIS\\Documents\\Proyecto_Multiplataforma\\Proyecto_Multiplataforma.csproj",
         "packagesPath": "C:\\Users\\alumno.CIIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alumno.CIIS\\Documents\\Proyecto_Multiplataforma-1\\obj\\",
+        "outputPath": "C:\\Users\\alumno.CIIS\\Documents\\Proyecto_Multiplataforma\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration; 
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Proyecto_Multiplataforma_1
+namespace Proyecto_Multiplataforma
 {
     public class Startup
     {

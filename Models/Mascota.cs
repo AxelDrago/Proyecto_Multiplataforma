@@ -1,4 +1,4 @@
-namespace Proyecto_Multiplataforma_1.Models
+namespace Proyecto_Multiplataforma.Models
 {
     public class Mascota
     {
