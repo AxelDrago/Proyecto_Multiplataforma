@@ -1,10 +1,19 @@
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Proyecto_Multiplataforma.Models;
+using Microsoft.EntityFrameworkCore;
+
 namespace Proyecto_Multiplataforma.Controllers
 {
     public class HomeController: Controller
     {
          public IActionResult RegistroMascota()
         {
-            ViewBag.Tipos = _context.Tipos.ToList();//lo nuevo en este proyecto
+            ViewBag.Tipos = _context.Tipos.ToList();
 
             return View();
         }
@@ -18,7 +27,7 @@ namespace Proyecto_Multiplataforma.Controllers
 
                 return RedirectToAction("index");
             }
-            ViewBag.Tipos = _context.Tipos.ToList();//lo nuevo
+            ViewBag.Tipos = _context.Tipos.ToList();
 
             return View();
         }
