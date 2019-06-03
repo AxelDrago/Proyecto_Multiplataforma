@@ -5,9 +5,9 @@ namespace Proyecto_Multiplataforma_1.Models
 {
     public class ICareContext: IdentityDbContext
     {
-         public DbSet<Producto> Productos { get; set; }
+         public DbSet<Mascota> Mascota { get; set; }
 
-        public TiendaContext(DbContextOptions<TiendaContext> options) : base(options) { }
+        public TiendaContext(DbContextOptions<ICareContext> options) : base(options) { }
 
     }
 }
