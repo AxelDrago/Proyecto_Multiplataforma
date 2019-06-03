@@ -4,10 +4,10 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Proyecto_Multiplataforma.Models;
+using Proyecto_Multiplataforma_1.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Proyecto_Multiplataforma.Controllers
+namespace Proyecto_Multiplataforma_1.Controllers
 {
     public class HomeController: Controller
     {

@@ -1,6 +1,6 @@
 
 using System.Collections.Generic;
-namespace Proyecto_Multiplataforma.Models
+namespace Proyecto_Multiplataforma_1.Models
 {
     public class TipoMascota
     {

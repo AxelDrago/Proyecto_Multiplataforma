@@ -1,13 +1,13 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-
+using Proyecto_Multiplataforma_1.Models;
 namespace Proyecto_Multiplataforma_1.Models
 {
     public class ICareContext: IdentityDbContext
     {
-         public DbSet<Mascota> Mascota { get; set; }
+         public DbSet<Mascota> Mascotas { get; set; }
 
-        public TiendaContext(DbContextOptions<ICareContext> options) : base(options) { }
+        public ICareContext(DbContextOptions<ICareContext> options) : base(options) { }
 
     }
 }
