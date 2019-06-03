@@ -27,8 +27,8 @@ namespace Proyecto_Multiplataforma_1
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-            services.AddDbContext<TiendaContext>(options => options.UseMySql(Configuration.GetConnectionString("Default")));
-            services.AddDefaultIdentity<IdentityUser>().AddEntityFrameworkStores<TiendaContext>();
+            services.AddDbContext<ICareContext>(options => options.UseMySql(Configuration.GetConnectionString("Default")));
+            services.AddDefaultIdentity<IdentityUser>().AddEntityFrameworkStores<ICareContext>();
 
             
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
